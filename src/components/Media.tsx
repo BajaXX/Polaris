@@ -6,18 +6,18 @@ export default function Media() {
     {
       title: "代码",
       linkText: "Github",
-      link: "https://github.com/vectorisvector/inscription",
+      link: "https://github.com/BajaXX/Polaris",
     },
     {
       title: "开发者",
-      linkText: "@cybervector_",
-      link: "https://twitter.com/cybervector_",
+      linkText: "@bajaSX",
+      link: "https://twitter.com/bajasx",
     },
-    {
-      title: "Alpha",
-      linkText: "@ChaunceyCrypto",
-      link: "https://twitter.com/ChaunceyCrypto",
-    },
+    // {
+    //   title: "Alpha",
+    //   linkText: "@ChaunceyCrypto",
+    //   link: "https://twitter.com/ChaunceyCrypto",
+    // },
   ];
 
   return (
@@ -46,7 +46,7 @@ export default function Media() {
       </div>
 
       <div className=" text-center">
-        打赏地址☕️: 0xcb64546921145fe3fa1316d08e4af5b6b60d3945
+        打赏地址☕️: 0xfc6Aa6eDbA70F83070e6f1f5112623e4e7B8d099
       </div>
     </div>
   );
